@@ -94,11 +94,6 @@ body {
     font-size: 12px;
 }
 
-#header .gnb>ul>li ul li:hover {
-    box-shadow: inset 0 -1px 0 0 #fff;
-    transition: 0.24s;
-}
-
 #header .gnb>ul>li>a {
     display: block;
     line-height: 12rem;
